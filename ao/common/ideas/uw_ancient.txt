@@ -1,0 +1,13 @@
+ideas = {
+	country = {
+		anc_shared_research = {
+			allowed = {
+				always = no
+			}
+			picture = generic_research_bonus
+			modifier = {
+				research_speed_factor = 0.05
+			}
+		}
+	}
+}

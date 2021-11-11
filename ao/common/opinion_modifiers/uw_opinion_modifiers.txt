@@ -1,0 +1,11 @@
+opinion_modifiers = {
+
+	ANC_a_kindled_heart = {
+		value = 50
+	}
+
+	ANC_a_branch_offered = {
+		value = 25
+	}
+
+}
